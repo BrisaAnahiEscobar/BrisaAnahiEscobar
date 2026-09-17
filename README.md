@@ -1,52 +1,85 @@
-<h1 align="center"><b> Hola, soy Brisa Escobar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 👋 Hola, soy Brisa Escobar
 
-# 💫 Acerca de mi:
-🎓 Soy estudiante de Ingenieria en Sistremas de Informacion en la UTN.<br> 🌐 Estoy aprendiendo programacion en java y phyton.<br> 📘 Deseo colaborar en varios proyectos.<br> 🔍 Mis metas futuras son aprender más tecnologías y nunca dejar de crear nuevas ideas. <br> ✔ Actualmente estoy trabajando en modelado funcional, aprendiendo el desarollo del paradigmas oreintados a objetos, ademas de la resolucion de problemas con logica. .<br> 📫 Comunicate **brisaescobar13@gmail.com** .
+### Backend Developer Jr. en formación | Java · Spring Boot · Python · SQL
 
+Soy estudiante de **Ingeniería en Sistemas de Información en la UTN** y estoy construyendo proyectos para desarrollar experiencia práctica en software.
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white">
-  <img src= "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  
-  </span>
+Me interesa especialmente el desarrollo **Backend**, las APIs, las bases de datos y la integración entre servicios.
 
-  <!-- <h4> Frameworks </h4>
+Actualmente estoy fortaleciendo mis conocimientos en **Java, Spring Boot, SQL y desarrollo de aplicaciones**, mientras construyo proyectos propios y académicos.
 
-<span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span> 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
+---
 
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-Agregar en un futuro!
-https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg
---> 
+## 🚀 Proyecto destacado
 
-<h4> Tecnologias </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+### 🎙️ MailFlow
 
-<h4> IDE </h4>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+**¿Y si pudieras escuchar tus emails en lugar de leerlos?**
 
-<h3 align="left">Conenctate conmigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/brisa-escobar-/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/briisa.escobar/?hl=es-la" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-      
-  
+MailFlow es un asistente de correo electrónico web que integra **Gmail, OAuth 2.0 y Text-to-Speech**, con una arquitectura que evoluciona hacia la incorporación de IA para generar resúmenes y priorizar mensajes.
+
+El proyecto nació a partir de un problema real y actualmente se encuentra en desarrollo.
+
+👉 [Ver MailFlow](https://github.com/BrisaAnahiEscobar/mailflow)
+
+---
+
+## 🛠️ Tecnologías
+
+### Backend
+
+`Java` `Spring Boot` `Python` `SQL`
+
+### APIs & Integración
+
+`REST` `Gmail API` `OAuth 2.0` `Postman`
+
+### Frontend
+
+`Flutter` `Dart` `HTML` `CSS` `JavaScript`
+
+### Herramientas
+
+`Git` `GitHub` `Docker` `n8n`
+
+---
+
+## 📚 Actualmente aprendiendo
+
+* ☕ Java y Spring Boot
+* 🗄️ Diseño y gestión de bases de datos
+* 🔌 Desarrollo e integración de APIs
+* 🏗️ Arquitectura de software
+* 🧪 Testing
+* 🔐 Autenticación y seguridad
+
+---
+
+## 📂 Algunos proyectos
+
+| Proyecto                                                                  | Tecnologías                       | Qué demuestra                                |
+| ------------------------------------------------------------------------- | --------------------------------- | -------------------------------------------- |
+| 🎙️ [MailFlow](https://github.com/BrisaAnahiEscobar/mailflow)             | Flutter · Gmail API · OAuth · TTS | Integración de APIs y desarrollo de producto |
+| 🗄️ [GoodReads](https://github.com/BrisaAnahiEscobar/BaseDatos-GoodReads) | SQL · MySQL                       | Modelado y consultas de bases de datos       |
+| 🌐 [Portfolio](https://github.com/BrisaAnahiEscobar/Portafolio)           | HTML · CSS · JavaScript           | Desarrollo web y UX                          |
+| 🎓 [Gestor de estudiantes](https://github.com/BrisaAnahiEscobar/Gestor-de-Estudiantes-y-Beneficios.git)                                                  | C++                               | Estructuras de datos y manejo de archivos    |
+
+---
+
+## 🎯 En qué estoy enfocada
+
+Estoy buscando mi primera oportunidad profesional en tecnología, especialmente en posiciones de:
+
+**Software Engineering Intern · Backend Developer Trainee · Junior Developer**
+
+Mi objetivo es seguir aprendiendo mientras participo en proyectos reales y desarrollo buenas prácticas de ingeniería de software.
+
+---
+
+## 🌐 Contacto
+
+💼 [LinkedIn](https://www.linkedin.com/in/escobarbrisa/)
+
+🌐 [Portfolio](https://brisaanahiescobar.github.io/Portafolio/)
+
+📧 [Email](mailto:brisaescobar13@gmail.com)
