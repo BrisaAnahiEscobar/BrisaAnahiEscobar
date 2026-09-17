@@ -10,7 +10,7 @@ Actualmente estoy fortaleciendo mis conocimientos en **Java, Spring Boot, SQL y 
 
 ---
 
-## 🚀 Proyecto destacado
+##  Proyecto destacado
 
 ### 🎙️ MailFlow
 
@@ -24,7 +24,7 @@ El proyecto nació a partir de un problema real y actualmente se encuentra en de
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 ### Backend
 
@@ -46,12 +46,12 @@ El proyecto nació a partir de un problema real y actualmente se encuentra en de
 
 ## 📚 Actualmente aprendiendo
 
-* ☕ Java y Spring Boot
-* 🗄️ Diseño y gestión de bases de datos
-* 🔌 Desarrollo e integración de APIs
-* 🏗️ Arquitectura de software
-* 🧪 Testing
-* 🔐 Autenticación y seguridad
+*  Java y Spring Boot
+*  Diseño y gestión de bases de datos
+*  Desarrollo e integración de APIs
+*  Arquitectura de software
+*  Testing
+*  Autenticación y seguridad
 
 ---
 
@@ -59,10 +59,10 @@ El proyecto nació a partir de un problema real y actualmente se encuentra en de
 
 | Proyecto                                                                  | Tecnologías                       | Qué demuestra                                |
 | ------------------------------------------------------------------------- | --------------------------------- | -------------------------------------------- |
-| 🎙️ [MailFlow](https://github.com/BrisaAnahiEscobar/mailflow)             | Flutter · Gmail API · OAuth · TTS | Integración de APIs y desarrollo de producto |
-| 🗄️ [GoodReads](https://github.com/BrisaAnahiEscobar/BaseDatos-GoodReads) | SQL · MySQL                       | Modelado y consultas de bases de datos       |
-| 🌐 [Portfolio](https://github.com/BrisaAnahiEscobar/Portafolio)           | HTML · CSS · JavaScript           | Desarrollo web y UX                          |
-| 🎓 [Gestor de estudiantes](https://github.com/BrisaAnahiEscobar/Gestor-de-Estudiantes-y-Beneficios.git)                                                  | C++                               | Estructuras de datos y manejo de archivos    |
+|  [MailFlow](https://github.com/BrisaAnahiEscobar/mailflow)             | Flutter · Gmail API · OAuth · TTS | Integración de APIs y desarrollo de producto |
+|  [GoodReads](https://github.com/BrisaAnahiEscobar/BaseDatos-GoodReads) | SQL · MySQL                       | Modelado y consultas de bases de datos       |
+|  [Portfolio](https://github.com/BrisaAnahiEscobar/Portafolio)           | HTML · CSS · JavaScript           | Desarrollo web y UX                          |
+|  [Gestor de estudiantes](https://github.com/BrisaAnahiEscobar/Gestor-de-Estudiantes-y-Beneficios.git)                                                  | C++                               | Estructuras de datos y manejo de archivos    |
 
 ---
 
