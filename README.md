@@ -74,12 +74,14 @@ Estoy buscando mi primera oportunidad profesional en tecnología, especialmente 
 
 Mi objetivo es seguir aprendiendo mientras participo en proyectos reales y desarrollo buenas prácticas de ingeniería de software.
 
----
+<!-- 
+--- 
 ## 📊 GitHub Stats
 
 ![Brisa Escobar GitHub stats](https://github-readme-stats.vercel.app/api?username=BrisaAnahiEscobar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrisaAnahiEscobar&layout=compact&theme=dracula)
----
+--- 
+-->
 
 ## 🌐 Contacto
 
