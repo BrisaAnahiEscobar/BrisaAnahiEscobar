@@ -82,6 +82,18 @@ Mi objetivo es seguir aprendiendo mientras participo en proyectos reales y desar
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrisaAnahiEscobar&layout=compact&theme=dracula)
 --- 
 -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-zeta-eight-98.vercel.app/api?username=BrisaAnahiEscobar&show_icons=true&theme=dracula"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-zeta-eight-98.vercel.app/api/top-langs/?username=BrisaAnahiEscobar&layout=compact&theme=dracula"
+    alt="Top Languages"
+  />
+</p>
 
 ## 🌐 Contacto
 
