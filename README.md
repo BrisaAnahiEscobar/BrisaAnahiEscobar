@@ -81,7 +81,7 @@ Mi objetivo es seguir aprendiendo mientras participo en proyectos reales y desar
 ![Brisa Escobar GitHub stats](https://github-readme-stats.vercel.app/api?username=BrisaAnahiEscobar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrisaAnahiEscobar&layout=compact&theme=dracula)
 --- 
--->
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -93,6 +93,18 @@ Mi objetivo es seguir aprendiendo mientras participo en proyectos reales y desar
     src="https://github-readme-stats-zeta-eight-98.vercel.app/api/top-langs/?username=BrisaAnahiEscobar&layout=compact&theme=dracula"
     alt="Top Languages"
   />
+</p>
+
+-->
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-zeta-eight-98.vercel.app/api?username=BrisaAnahiEscobar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-zeta-eight-98.vercel.app/api/top-langs/?username=BrisaAnahiEscobar&layout=donut&theme=dracula&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrisaAnahiEscobar&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ## 🌐 Contacto
